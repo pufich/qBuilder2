@@ -1,0 +1,28 @@
+{
+  "name": "8rucp2",
+  "version": "0.0.0",
+  "description": "Demo for react-awesome-query-builder",
+  "main": "sandbox.js",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ukrbublik/react-awesome-query-builder.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Denis Oblogin <ukrbublik@gmail.com> (https://github.com/ukrbublik)",
+  "homepage": "https://ukrbublik.github.io/react-awesome-query-builder/",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-awesome-query-builder": "^0.2.53",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
